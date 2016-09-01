@@ -1,7 +1,7 @@
 var gulp = require('gulp');
 var apigeetool = require('apigeetool')
 var gutil = require('gulp-util')
-var proxy_name = 'apikey-basic'
+var proxy_name = 'variables-test'
 gulp.task('default', function() {
   // place code for your default task here
 });
